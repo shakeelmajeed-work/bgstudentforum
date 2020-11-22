@@ -6,4 +6,5 @@ Code is being updated as development continues. <a href="https://www.bgstudentfo
 
 Current features:
 <li>Blog post functionality (CRUD)</li>
-<li></li>
+<li>User Advertisements</li>
+<li>Commenting</li>
