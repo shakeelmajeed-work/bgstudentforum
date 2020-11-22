@@ -9,7 +9,7 @@ Current features:
 <li>User Advertisements</li>
 <li>Commenting</li>
 
-<hr>
+<hr></hr>
 Pictures:
 ![alt text](https://github.com/shakeelmajeed-work/bgstudentforum/blob/master/Screenshot%202020-11-22%20at%2013.55.10.png)
 ![alt text](https://github.com/shakeelmajeed-work/bgstudentforum/blob/master/Screenshot%202020-11-22%20at%2013.58.52.png)
